@@ -17,7 +17,8 @@
 ### Módulo 5
   Neste módulo, aprendemos como fazer e gerenciar projetos e issues.
   
-  
+### Módulo 6
+  Neste módulo, revisamos o que aprendemos nos módulos anteriores e conhecemos os erros mais comuns e como resolve-los.
   
   
   
