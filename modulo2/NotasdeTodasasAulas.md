@@ -1,7 +1,9 @@
 ## Notas dos comandos aprendidos no módulo 2
 
 1-	Criando um repositório local
+
 mkdir curso-git-e-github   = mkdir é para criar o repositório
+
 ls = é para ver os repositórios que você tem
 
 cd curso-git-e-github = muda para o diretório escolhido
